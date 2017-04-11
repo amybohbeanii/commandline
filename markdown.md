@@ -33,7 +33,7 @@ Implement:
 | Debug threading in Pintos exercise 1 or understand solution  |   notes on what is occurring in exercise 1 and what issues we ran into, demo of working code |
 | Understand Pintos User Programs exercise 2
   | notes on what is happening in exercise 2, and any issues we run into if we attempt to implement it, demo of working code  |
-| Implementation | <ul><li>Pintos Virtual memory project</li><li>Pages</li></ul> |
+| Implementation | <ul><li>Pintos Virtual memory project</li><li>Pages</li></ul><ul><li>Stack growth</li><li>Page tables / Address mapping</li></ul><ul><li>User memory during system calls</li><li>Error handling for page faults</li></ul>   |
 
 * Pintos Virtual memory project
 * Pages

@@ -19,4 +19,8 @@ Re-evaluate project MVP and stretch goals. Our team’s learning goal for this p
 | Task  | Evidence |
 | ------------- | ------------- |
 | Research VM Theory and bring in notes on topics in VM  | [Link](https://docs.google.com/document/d/1o5RZs28DHMHPYEKhko-TQksUKRmZS9w19s89c3lyUyw/edit)  |
-| Content Cell  | Content Cell  |
+| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
+| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
+| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
+| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
+| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |

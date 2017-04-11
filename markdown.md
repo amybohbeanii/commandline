@@ -16,11 +16,13 @@ Re-evaluate project MVP and stretch goals. Our team’s learning goal for this p
 
 [Setup script to get Pintos running](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh).
 
-| Task  | Evidence |
+| Completed Tasks  | Evidence |
 | ------------- | ------------- |
 | Research VM Theory and bring in notes on topics in VM  | [Link](https://docs.google.com/document/d/1o5RZs28DHMHPYEKhko-TQksUKRmZS9w19s89c3lyUyw/edit)  |
-| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
-| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
-| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
-| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
-| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
+| Get together to set up development environment. Get Pintos and Arduino working  | [Link](https://trello.com/c/I4mBAkmO/7-determine-which-hardware-libraries-or-existing-projects-to-use-have-a-meeting-and-make-pro-con-bullet-points-1-to-1-5-hr) |
+| Choose either Pintos or Arduino. Have a meeting to make a pros/cons on both paths. We chose Pintos  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |
+| Get together to draw a block diagram of VM to understand how VM works. Understand TLB, Page Tables, Address Translation  | [Link](https://drive.google.com/drive/folders/0B6n1zsVOIMe6VXNFM280UnhmVDg) |
+| Ask Ben during class time to confirm/review our block diagram to see if we need to make additional changes in our current understanding of VM  | We talked to Ben and we concluded that we want to expand our replacement procedure when we get there in implementation  |
+| Re-evaluate project MVP and stretch goals  | Our team’s learning goal for this project is to gain a comprehensive understanding of the theory and implementation of virtual memory. |
+| Work through Projects 1 and 2 in Pintos in order to start VM implementation  | [Link](https://docs.google.com/document/d/1pPJVoXkzB9vAcKZOBHPdK81diZmTF2zh0bMJQ_gvWGM/edit)  |
+| Setup script to get Pintos running  | [Link](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh) |

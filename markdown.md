@@ -1,3 +1,46 @@
+
+
+Present a product backlog for the next sprint that represents a concrete plan that will keep the entire team productively engaged and get you to your stated goals (this can be a link to your Trello board). If you had trouble putting together evidence for your cards in the previous sprints, adjust your new cards accordingly.
+
+https://trello.com/b/jNHxdxiL/softsyspeskypintos
+
+Research VM specific implementation strategies: 1 page of notes each
+
+Debug threading in Pintos exercise 1 or understand solution
+
+Deliverable: notes on what is occurring in exercise 1 and what issues we ran into, demo of working code
+
+Understand Pintos User Programs exercise 2
+
+Deliverable: notes on what is happening in exercise 2, and any issues we run into if we attempt to implement it, demo of working code
+
+
+Implement:
+* Pintos Virtual memory project
+* Pages
+* Stack growth
+* Page tables / Address mapping
+* User memory during system calls
+* Error handling for page faults
+
+| Product Backlog | [Trello Board](https://docs.google.com/document/d/1o5RZs28DHMHPYEKhko-TQksUKRmZS9w19s89c3lyUyw/edit) |
+| ------------- | ------------- |
+
+
+|Upcoming Task | Deliverable |
+| ------------- | ------------- |
+| Research VM specific implementation strategies: 1 page of notes each  |   |
+| Debug threading in Pintos exercise 1 or understand solution  |   notes on what is occurring in exercise 1 and what issues we ran into, demo of working code |
+| Understand Pintos User Programs exercise 2
+  | notes on what is happening in exercise 2, and any issues we run into if we attempt to implement it, demo of working code  |
+| Implementation | * Pintos Virtual memory project
+* Pages
+* Stack growth
+* Page tables / Address mapping
+* User memory during system calls
+* Error handling for page faults |
+
+
 To see the tasks that we completed during this sprint, along with evidence of completion, see the cards and card comments in the “Done” list on our [Trello board](https://trello.com/b/jNHxdxiL/softsyspeskypintos) or see the list below:
 
 [Research VM Theory and bring in notes on topics in VM](https://docs.google.com/document/d/1o5RZs28DHMHPYEKhko-TQksUKRmZS9w19s89c3lyUyw/edit).

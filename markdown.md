@@ -16,7 +16,7 @@ Re-evaluate project MVP and stretch goals. Our team’s learning goal for this p
 
 [Setup script to get Pintos running](https://github.com/bishiguro/SoftSysPeskyPintos/blob/master/configure_pintos.sh).
 
-| First Header  | Second Header |
+| Task  | Evidence |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Research VM Theory and bring in notes on topics in VM  | [Link](https://docs.google.com/document/d/1o5RZs28DHMHPYEKhko-TQksUKRmZS9w19s89c3lyUyw/edit)  |
 | Content Cell  | Content Cell  |

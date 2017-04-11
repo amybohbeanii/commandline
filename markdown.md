@@ -33,12 +33,14 @@ Implement:
 | Debug threading in Pintos exercise 1 or understand solution  |   notes on what is occurring in exercise 1 and what issues we ran into, demo of working code |
 | Understand Pintos User Programs exercise 2
   | notes on what is happening in exercise 2, and any issues we run into if we attempt to implement it, demo of working code  |
-| Implementation | * Pintos Virtual memory project
+| Implementation | <ul><li>Pintos Virtual memory project</li><li>Pages</li></ul> |
+
+* Pintos Virtual memory project
 * Pages
 * Stack growth
 * Page tables / Address mapping
 * User memory during system calls
-* Error handling for page faults |
+* Error handling for page faults 
 
 
 To see the tasks that we completed during this sprint, along with evidence of completion, see the cards and card comments in the “Done” list on our [Trello board](https://trello.com/b/jNHxdxiL/softsyspeskypintos) or see the list below:
